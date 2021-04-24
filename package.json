@@ -1,0 +1,10 @@
+{
+    "name": "com.mokagames.unity-quicksheet",
+    "displayName": "Unity-QuickSheet",
+    "version": "1.1.0",
+    "description": "Unity-QuickSheet enables you to use google and excel spreadsheet data within Unity editor. With Unity-QuickSheet, you can retrieve data from a spreadsheet and save it as an asset file with a ScriptableObject format even without writing single line of code.",
+    "keywords": ["Excel", "Spreadsheet"],
+    "category": "Data",
+    "dependencies": {
+    }
+}

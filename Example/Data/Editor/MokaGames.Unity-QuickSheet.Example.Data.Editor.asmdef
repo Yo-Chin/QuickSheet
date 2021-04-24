@@ -1,0 +1,26 @@
+{
+    "name": "MokaGames.Unity-QuickSheet.Example.Data.Editor",
+    "references": [
+        "MokaGames.Unity-QuickSheet",
+        "MokaGames.Unity-QuickSheet.Editor",
+        "MokaGames.Unity-QuickSheet.ExcelPlugin.Editor",
+        "MokaGames.Unity-QuickSheet.Example.Data.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Android",
+        "iOS",
+        "LinuxStandalone64",
+        "macOSStandalone",
+        "PS4",
+        "Switch",
+        "tvOS",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone32",
+        "WindowsStandalone64",
+        "XboxOne"
+    ],
+    "allowUnsafeCode": false
+}
